@@ -5,9 +5,12 @@
 - clean: ['~']
 
 - link:
-    ~/.zshrc: zshrc
-#	~/.tmux.conf: tmux.conf
-#	~/.vim: vim
+    ~/.zshrc: 
+    ~/.gitconfig:
+    ~/.emacs:
+    ~/.emacs.d:
+    ~/.howm-keys:
+    
 
 - create:
   - ~/Work
