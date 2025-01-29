@@ -16,5 +16,7 @@
   - ~/Work
   - ~/.vim/undo-history
 
-# - shell:
-#	- [git submodule update --init --recursive, Installing submodules]
+- shell:
+
+#     - [git submodule update --init --recursive, Installing submodules]
+
