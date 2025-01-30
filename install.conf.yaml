@@ -8,15 +8,13 @@
     ~/.zshrc: 
     ~/.gitconfig:
     ~/.emacs:
-    ~/.emacs.d:
+ #  ~/.emacs.d: # keep it in ~
     ~/.howm-keys:
+    ~/.config: ~/.dotfiles/.config
     
 
 - create:
   - ~/Work
   - ~/.vim/undo-history
 
-- shell:
-
-#     - [git submodule update --init --recursive, Installing submodules]
-
+#- shell:

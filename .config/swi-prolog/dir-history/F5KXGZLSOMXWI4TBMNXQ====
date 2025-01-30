@@ -1,0 +1,15 @@
+_HiStOrY_V2_
+absolute_file_name(app_config(.),\040Dir,\040[file_type(directory)]).
+exit.
+quit.
+pwd.
+cd(Documents).
+cd('Documents').
+ls.
+edit(test.pl).
+help(edit).
+edit.
+edit([test]).
+edit([test.pl]).
+help(dict).
+apropos(dict).
